@@ -1,0 +1,477 @@
+.mainContainer > div > div:nth-child(1)> ul > li > a,
+.mainContainer > div > div:nth-child(2) > h2,
+header > div > nav > ul > li > a,
+.shopListContainer > div:nth-child(1) > div > h2,
+.shoplistSlider div h2,
+.shopListBubblyContainer > div:nth-child(3) > h2,
+.shopListBubblyContainer > div:nth-child(5) > div > div > h2,
+.shopListBubblyContainer > div:nth-child(6) > a,
+.shopListBubblyRoseContainer > div:nth-child(3) > h2,
+.shopListBubblyRoseContainer > div:nth-child(5) > div > div > h2,
+.shopListBubblyRoseContainer > div:nth-child(6) > a,
+.shopListRoseContainer > div:nth-child(3) > h2,
+.shopListRoseContainer > div:nth-child(5) > div > div > h2,
+.shopListRoseContainer > div:nth-child(6) > a,
+.shopListSauvignonContainer > div:nth-child(3) > h2,
+.shopListSauvignonContainer > div:nth-child(5) > div > div > h2, 
+.shopListSauvignonContainer > div:nth-child(6) > a,
+.shopListMalbecContainer > div:nth-child(3) > h2,
+.shopListMalbecContainer > div:nth-child(5) > div > div > h2,
+.shopListMalbecContainer > div:nth-child(6) > a,
+.shopListPinotContainer > div:nth-child(3) > h2,
+.shopListPinotContainer > div:nth-child(5) > div > div > h2,
+.shopListPinotContainer > div:nth-child(6) > a,
+.storeLocatorContainer > div:nth-child(1) > div > p,
+.storeLocatorContainer > div:nth-child(5) > div > ul > li > div > h2,
+.aboutRooseContainer > div:nth-child(1) > div > h2,
+.aboutRooseContainer > div:nth-child(3) > div > h2,
+.aboutRooseContainer > div:nth-child(4) > div > ul > li > div > h2,
+.aboutRooseContainer > div:nth-child(6) > div > h2,
+.shopBanksContainer > div:nth-child(1) > div > h2,
+.shopBanksContainer > div:nth-child(5) > h2,
+.shopBanksContainer > div:nth-child(6) > h2,
+.shopBanksContainer > div:nth-child(6) > ul > li > div > h3,
+.shopBanksContainer > div:nth-child(7) > div > h2,
+.newsListOneContainer > div:nth-child(1) > ul > li > div > h2,
+.newsListTwoContainer > div:nth-child(1) > ul > li > div > h2,
+.newsListThreeContainer > div:nth-child(1) > ul > li > div > h2,
+.newsListFourContainer > div:nth-child(1) > ul > li > div > h2,
+.container.newsstyle > div:nth-child(1) > div > span{
+    font-family: "Lora";
+}
+.mainContainer > div > div:nth-child(2) > p,
+.mainContainer > div > div:nth-child(2) > a,
+.shopListContainer > div:nth-child(1) > div > span,
+.shopListContainer > div:nth-child(1) > div > p
+.shoplistSlider div p,
+.shoplistSlider div a,
+.shopListBubblyContainer > div:nth-child(2) > div > div,
+.shopListBubblyContainer > div:nth-child(3) > p,
+.shopListBubblyContainer > div:nth-child(5) > div > div > p,
+.shopListBubblyRoseContainer > div:nth-child(2) > div > div,
+.shopListBubblyRoseContainer > div:nth-child(3) > p,
+.shopListBubblyRoseContainer > div:nth-child(5) > div > div > p,
+.shopListRoseContainer > div:nth-child(2) > div > div,
+.shopListRoseContainer > div:nth-child(3) > p,
+.shopListRoseContainer > div:nth-child(5) > div > div > p,
+.shopListSauvignonContainer > div:nth-child(2) > div > div,
+.shopListSauvignonContainer > div:nth-child(3) > p,
+.shopListSauvignonContainer > div:nth-child(5) > div > div > p,
+.shopListMalbecContainer > div:nth-child(2) > div > div,
+.shopListMalbecContainer > div:nth-child(3) > p,
+.shopListMalbecContainer > div:nth-child(5) > div > div > p,
+.shopListPinotContainer > div:nth-child(2) > div > div,
+.shopListPinotContainer > div:nth-child(3) > p,
+.shopListPinotContainer > div:nth-child(5) > div > div > p,
+.storeLocatorContainer > div:nth-child(1) > div > h2,
+.storeLocatorContainer > div:nth-child(5) > div > h2,
+.aboutRooseContainer > div:nth-child(1) > div > p,
+.aboutRooseContainer > div:nth-child(2) > div > a,
+.aboutRooseContainer > div:nth-child(3) > div > p,
+.aboutRooseContainer > div:nth-child(4) > div > ul > li > div > a 
+.aboutRooseContainer > div:nth-child(5) > ul > li,
+.aboutRooseContainer > div:nth-child(6) > div > div,
+.shopBanksContainer > div:nth-child(1) > div > p,
+.shopBanksContainer > div:nth-child(1) > div > span,
+.shopBanksContainer > div:nth-child(2) > div > a,
+.shopBanksContainer > div:nth-child(3) > ul > li,
+.shopBanksContainer > div:nth-child(5) > p,
+.shopBanksContainer > div:nth-child(5) > a,
+.shopBanksContainer > div:nth-child(6) > ul > li > div > p,
+.shopBanksContainer > div:nth-child(7) > div > div,
+.newsListOneContainer > div:nth-child(1) > ul > li > div > span,
+.newsListOneContainer > div:nth-child(1) > ul > li > div > p,
+.newsListTwoContainer > div:nth-child(1) > ul > li > div > span,
+.newsListTwoContainer > div:nth-child(1) > ul > li > div > p,
+.newsListThreeContainer > div:nth-child(1) > ul > li > div > span,
+.newsListThreeContainer > div:nth-child(1) > ul > li > div > p,
+.newsListFourContainer > div:nth-child(1) > ul > li > div > span,
+.newsListFourContainer > div:nth-child(1) > ul > li > div > p,
+.container.newsstyle > div:nth-child(1) > div:not(span){
+    font-family: "Montserrat";
+}
+
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+
+
+@media screen and (max-width: 767px) {
+      
+    header{
+        padding: 10px 0;
+        /* height: 95px; */
+    }
+    header > div,
+    .shopListContainer > div:nth-child(1) > div,
+    .shopListBubblyContainer > div:nth-child(2) > div,
+    .shopListBubblyContainer > div:nth-child(5),
+    .shopListBubblyRoseContainer > div:nth-child(2) > div,
+    .shopListBubblyRoseContainer > div:nth-child(5),
+    .shopListRoseContainer > div:nth-child(2) > div,
+    .shopListRoseContainer > div:nth-child(5),
+    .shopListSauvignonContainer > div:nth-child(2) > div,
+    .shopListSauvignonContainer > div:nth-child(5),
+    .shopListMalbecContainer > div:nth-child(2) > div,
+    .shopListMalbecContainer > div:nth-child(5),
+    .shopListPinotContainer > div:nth-child(2) > div,
+    .shopListPinotContainer > div:nth-child(5),
+    .storeLocatorContainer > div:nth-child(1) > div,
+    .storeLocatorContainer > div:nth-child(2)> div,
+    .storeLocatorContainer > div:nth-child(3),
+    .storeLocatorContainer > div:nth-child(5) > div,
+    .aboutRooseContainer > div:nth-child(1) > div,
+    .aboutRooseContainer > div:nth-child(2) > div,
+    .aboutRooseContainer > div:nth-child(3),
+    .aboutRooseContainer > div:nth-child(4) > div,
+    .aboutRooseContainer > div:nth-child(5),
+    .aboutRooseContainer > div:nth-child(6) > div,
+    .shopBanksContainer > div:nth-child(1) > div,
+    .shopBanksContainer > div:nth-child(2) > div,
+    .shopBanksContainer > div:nth-child(3),
+    .shopBanksContainer > div:nth-child(4),
+    .shopBanksContainer > div:nth-child(6),
+    .newsListOneContainer > div:nth-child(1),
+    .newsListTwoContainer > div:nth-child(1),
+    .newsListThreeContainer > div:nth-child(1),
+    .newsListFourContainer > div:nth-child(1),
+    .container.newsonestyle > div:nth-child(1){
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    header > div:after{
+        content: '';
+        display: block;
+        clear: both;
+    }
+    header > div > h1{
+        max-width: 56px;
+        width: 21.53%;
+        float: left;
+    }
+    header > div > h1 > a{}
+    header > div > h1 > a > img{
+        width: 100%;
+    }
+    header > div > nav{
+        float: right;
+        margin-top: -20px;
+    }
+    header > div > nav > ul{}
+    header > div > nav > ul:after{
+        content: '';
+        display: block;
+        clear: both;
+    }
+    header > div > nav > ul > li{
+        float: left;
+        line-height: 75px;
+    }
+    header > div > nav > ul > li:not(:first-child){
+        margin-left: 10px;
+    }
+    header > div > nav > ul > li > a{
+        font-weight: 700;
+        font-size: 10px;
+        color: #000000;
+        font-style: italic;
+    }
+
+
+    footer{
+        background-color: #eaeaea;
+        padding: 10px 0;
+        text-align: center;
+    }
+    footer > div{}
+    footer > div > h2{
+    }
+    footer > div > h2 > img{
+        width: 29.61%;
+    }
+    footer > div > ul{
+        padding: 20px 0;
+        display: flex;
+        justify-content: center;
+    }
+    footer > div > ul > li{}
+    footer > div > ul > li:not(:first-child){
+        margin-left: 8px;
+    }
+    footer > div > ul > li > a{
+        background-position: center center;
+        background-repeat: no-repeat;
+        display: inline-block;
+        text-indent: -9999px;
+        width: 18px;
+        height: 20px;
+    }
+    footer > div > ul > li:nth-child(1) > a{
+        background-image: url('../images/sns_01.png');
+    }
+    footer > div > ul > li:nth-child(2) > a{
+        background-image: url('../images/sns_02.png');
+    }
+    footer > div > ul > li:nth-child(3) > a{
+        background-image: url('../images/sns_03.png');
+    }
+    footer > div > ul > li:nth-child(4) > a{
+        background-image: url('../images/sns_04.png');
+    }
+    footer > div > p{
+        font-size: 9px;
+    }
+}
+/* mobile */
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+    
+    header{
+        padding: 65px 0;
+        height: 95px;
+    }
+    header > div,
+    .shopListContainer > div:nth-child(1) > div,
+    .shopListBubblyContainer > div:nth-child(2) > div,
+    .shopListBubblyContainer > div:nth-child(5),
+    .shopListBubblyRoseContainer > div:nth-child(2) > div,
+    .shopListBubblyRoseContainer > div:nth-child(5),
+    .shopListRoseContainer > div:nth-child(2) > div,
+    .shopListRoseContainer > div:nth-child(5),
+    .shopListSauvignonContainer > div:nth-child(2) > div,
+    .shopListSauvignonContainer > div:nth-child(5),
+    .shopListMalbecContainer > div:nth-child(2) > div,
+    .shopListMalbecContainer > div:nth-child(5),
+    .shopListPinotContainer > div:nth-child(2) > div,
+    .shopListPinotContainer > div:nth-child(5),
+    .storeLocatorContainer > div:nth-child(1) > div,
+    .storeLocatorContainer > div:nth-child(2)> div,
+    .storeLocatorContainer > div:nth-child(3),
+    .storeLocatorContainer > div:nth-child(5) > div,
+    .aboutRooseContainer > div:nth-child(1) > div,
+    .aboutRooseContainer > div:nth-child(2) > div,
+    .aboutRooseContainer > div:nth-child(3),
+    .aboutRooseContainer > div:nth-child(4) > div,
+    .aboutRooseContainer > div:nth-child(5),
+    .aboutRooseContainer > div:nth-child(6) > div,
+    .shopBanksContainer > div:nth-child(1) > div,
+    .shopBanksContainer > div:nth-child(2) > div,
+    .shopBanksContainer > div:nth-child(3),
+    .shopBanksContainer > div:nth-child(4),
+    .shopBanksContainer > div:nth-child(6),
+    .newsListOneContainer > div:nth-child(1),
+    .newsListTwoContainer > div:nth-child(1),
+    .newsListThreeContainer > div:nth-child(1),
+    .newsListFourContainer > div:nth-child(1),
+    .container.newsonestyle > div:nth-child(1){
+        max-width: 720px;
+        margin: 0 auto;
+    }
+    header > div:after{
+        content: '';
+        display: block;
+        clear: both;
+    }
+    header > div > h1{
+        max-width: 122px;
+        width: 16.94%;
+        float: left;
+    }
+    header > div > h1 > a{}
+    header > div > h1 > a > img{
+        width: 100%;
+    }
+    header > div > nav{
+        float: right;
+        margin-top: -20px;
+    }
+    header > div > nav > ul{}
+    header > div > nav > ul:after{
+        content: '';
+        display: block;
+        clear: both;
+    }
+    header > div > nav > ul > li{
+        float: left;
+        line-height: 130px;
+    }
+    header > div > nav > ul > li:not(:first-child){
+        margin-left: 25px;
+    }
+    header > div > nav > ul > li > a{
+        font-weight: 700;
+        font-size: 20px;
+        color: #000000;
+        font-style: italic;
+    }
+
+
+    footer{
+        background-color: #eaeaea;
+        padding: 65px 0;
+        text-align: center;
+    }
+    footer > div{}
+    footer > div > h2{
+    }
+    footer > div > ul{
+        padding: 65px 0 40px;
+        display: flex;
+        justify-content: center;
+    }
+    footer > div > ul > li{}
+    footer > div > ul > li:not(:first-child){
+        margin-left: 20px;
+    }
+    footer > div > ul > li > a{
+        background-position: center center;
+        background-repeat: no-repeat;
+        display: inline-block;
+        text-indent: -9999px;
+        width: 18px;
+        height: 20px;
+    }
+    footer > div > ul > li:nth-child(1) > a{
+        background-image: url('../images/sns_01.png');
+    }
+    footer > div > ul > li:nth-child(2) > a{
+        background-image: url('../images/sns_02.png');
+    }
+    footer > div > ul > li:nth-child(3) > a{
+        background-image: url('../images/sns_03.png');
+    }
+    footer > div > ul > li:nth-child(4) > a{
+        background-image: url('../images/sns_04.png');
+    }
+    footer > div > p{
+        font-size: 14px;
+        line-height: 22px;
+    }
+} 
+/* tablet */
+
+
+@media screen and (min-width: 1280px) {
+
+    header{
+        padding: 65px 0;
+        height: 95px;
+    }
+    header > div,
+    .shopListContainer > div:nth-child(1) > div,
+    .shopListBubblyContainer > div:nth-child(2) > div,
+    .shopListBubblyContainer > div:nth-child(5),
+    .shopListBubblyRoseContainer > div:nth-child(2) > div,
+    .shopListBubblyRoseContainer > div:nth-child(5),
+    .shopListRoseContainer > div:nth-child(2) > div,
+    .shopListRoseContainer > div:nth-child(5),
+    .shopListSauvignonContainer > div:nth-child(2) > div,
+    .shopListSauvignonContainer > div:nth-child(5),
+    .shopListMalbecContainer > div:nth-child(2) > div,
+    .shopListMalbecContainer > div:nth-child(5),
+    .shopListPinotContainer > div:nth-child(2) > div,
+    .shopListPinotContainer > div:nth-child(5),
+    .storeLocatorContainer > div:nth-child(1) > div,
+    .storeLocatorContainer > div:nth-child(2)> div,
+    .storeLocatorContainer > div:nth-child(3),
+    .storeLocatorContainer > div:nth-child(5) > div,
+    .aboutRooseContainer > div:nth-child(1) > div,
+    .aboutRooseContainer > div:nth-child(2) > div,
+    .aboutRooseContainer > div:nth-child(3),
+    .aboutRooseContainer > div:nth-child(4) > div,
+    .aboutRooseContainer > div:nth-child(5),
+    .aboutRooseContainer > div:nth-child(6) > div,
+    .shopBanksContainer > div:nth-child(1) > div,
+    .shopBanksContainer > div:nth-child(2) > div,
+    .shopBanksContainer > div:nth-child(3),
+    .shopBanksContainer > div:nth-child(4),
+    .shopBanksContainer > div:nth-child(6),
+    .newsListOneContainer > div:nth-child(1),
+    .newsListTwoContainer > div:nth-child(1),
+    .newsListThreeContainer > div:nth-child(1),
+    .newsListFourContainer > div:nth-child(1),
+    .container.newsonestyle > div:nth-child(1){
+        max-width: 1620px;
+        margin: 0 auto;
+    }
+    header > div:after{
+        content: '';
+        display: block;
+        clear: both;
+    }
+    header > div > h1{
+        max-width: 240px;
+        width: 10.81%;
+        float: left;
+    }
+    header > div > h1 > a{}
+    header > div > h1 > a > img{
+        width: 100%;
+    }
+    header > div > nav{
+        float: right;
+        margin-top: -20px;
+    }
+    header > div > nav > ul{}
+    header > div > nav > ul:after{
+        content: '';
+        display: block;
+        clear: both;
+    }
+    header > div > nav > ul > li{
+        float: left;
+        line-height: 130px;
+    }
+    header > div > nav > ul > li:not(:first-child){
+        margin-left: 25px;
+    }
+    header > div > nav > ul > li > a{
+        font-weight: 700;
+        font-size: 20px;
+        color: #000000;
+        font-style: italic;
+    }
+
+
+    footer{
+        background-color: #eaeaea;
+        padding: 65px 0;
+        text-align: center;
+    }
+    footer > div{}
+    footer > div > h2{}
+    footer > div > ul{
+        padding: 90px 0 65px;
+        display: flex;
+        justify-content: center;
+    }
+    footer > div > ul > li{}
+    footer > div > ul > li:not(:first-child){
+        margin-left: 20px;
+    }
+    footer > div > ul > li > a{
+        background-position: center center;
+        background-repeat: no-repeat;
+        display: inline-block;
+        text-indent: -9999px;
+        width: 18px;
+        height: 20px;
+    }
+    footer > div > ul > li:nth-child(1) > a{
+        background-image: url('../images/sns_01.png');
+    }
+    footer > div > ul > li:nth-child(2) > a{
+        background-image: url('../images/sns_02.png');
+    }
+    footer > div > ul > li:nth-child(3) > a{
+        background-image: url('../images/sns_03.png');
+    }
+    footer > div > ul > li:nth-child(4) > a{
+        background-image: url('../images/sns_04.png');
+    }
+    footer > div > p{}
+}
+/* desktop */
