@@ -5062,7 +5062,7 @@
 
 .shopListBubblyContainer{}
 .shopListBubblyContainer > div:nth-child(1){
-    background: url('../images/shop_list_Bubbly_bg.png') left top / cover no-repeat;
+    background: url('../images/shop_list_bubbly_bg.png') left top / cover no-repeat;
     padding-top: 700px;
     text-indent: -9999px;
 }
