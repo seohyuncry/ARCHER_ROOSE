@@ -349,7 +349,7 @@
 }
 
 .shopListBubblyContainer > div:nth-child(7){
-    background: url('../images/shop_list_bubbly_last_bg.png') center / cover no-repeat fixed;
+    background: url('../images/shop_list_bubbly_rose_bg.png') left top / cover no-repeat;
     padding-top: 150px;
     text-indent: -9999px;
 }
@@ -2684,7 +2684,7 @@
 }
 
 .shopListBubblyContainer > div:nth-child(7){
-    background: url('../images/shop_list_bubbly_last_bg.png') center / cover no-repeat fixed;
+    background: url('../images/shop_list_bubbly_bg.png') left top / cover no-repeat;
     padding-top: 250px;
     text-indent: -9999px;
 }
@@ -2845,7 +2845,7 @@
 }
 
 .shopListBubblyRoseContainer > div:nth-child(7){
-    background: url('../images/shop_list_bubbly_rose_last_bg.png') center / cover no-repeat fixed;
+    background: url('../images/shop_list_bubbly_rose_bg.png') left top / cover no-repeat;
     padding-top: 250px;
     text-indent: -9999px;
 }
